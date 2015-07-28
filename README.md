@@ -27,10 +27,19 @@ SOFTWARE.
 
 Version
 -------
-0.1v
+0.1
 
 Usage
 -----
 
 $ chmod +x chiakiAtom.sh
-$ ./
+$ ./chiakiAtom.sh ~/inputDirectory foldername zipname
+
+
+Example
+-------
+Directory: ~/Documents/alep
+folder name (going to create directory to save zip): backup
+zip name: important
+
+$ ./chiakiAtom.sh ~/Documents/alep backup important
