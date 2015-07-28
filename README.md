@@ -46,3 +46,6 @@ Folder name (going to create directory to save zip): backup
 Zip name: important
 
 $ ./chiakiAtom.sh ~/Documents/alep backup important
+
+
+chiakiAtom@2015
