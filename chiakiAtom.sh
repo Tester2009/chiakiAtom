@@ -11,6 +11,23 @@ if [ $# -eq 0 ]; then
 	exit 1
 fi
 
+if [ -z "$2" ]; then
+        echo "Input not complete !"
+        echo "Change the variable and run !"
+        echo " "
+        echo "$0 ~/inputDirectory foldername zipname"
+	exit 1
+fi
+
+if [ -z "$3" ]; then
+        echo "Input not complete !"
+        echo "Change the variable and run !"
+        echo " "
+        echo "$0 ~/inputDirectory foldername zipname"
+        exit 1
+fi
+
+
 zip -r $3.zip $1;
 mkdir $2;
 cp $3.zip $2;
