@@ -33,13 +33,16 @@ Usage
 -----
 
 $ chmod +x chiakiAtom.sh
+
 $ ./chiakiAtom.sh ~/inputDirectory foldername zipname
 
 
 Example
 -------
 Directory: ~/Documents/alep
-folder name (going to create directory to save zip): backup
-zip name: important
+
+Folder name (going to create directory to save zip): backup
+
+Zip name: important
 
 $ ./chiakiAtom.sh ~/Documents/alep backup important
