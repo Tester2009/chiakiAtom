@@ -2,11 +2,11 @@
 # https://facebook.com/Tester2009
 # https://github.com/alepcat1710
 # Date: July 28, 2015
-# Updated: September 14, 2015. 0.2v
+# Updated: September 14, 2015. 1.0v
 # Tested on: Ubuntu 14.04 LTS
 # Feel free to use. Do not change copyright, mastah !
 
-chiakiVer="chiakiAtom 0.2v"
+chiakiVer="chiakiAtom 1.0v"
 echo "	$chiakiVer"
 echo "	Backup your file as soon as possible !"
 echo "	Written by Muhammad Aliff Muazzam @Tester2009"
